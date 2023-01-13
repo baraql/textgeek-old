@@ -1,6 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
-import React, { useRef } from "react";
+// import logo from './logo.svg';
+// import './App.css';
+import React, { useRef, useEffect } from "react";
 import initSqlJs from "sql.js";
 
 // import sqlWasm from "!!file-loader?name=sql-wasm-[contenthash].wasm!sql.js/dist/sql-wasm.wasm";
